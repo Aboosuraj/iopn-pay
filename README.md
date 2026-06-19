@@ -38,3 +38,19 @@ Users can:
 ## 🔗 Network
 
 IOPn Testnet (EVM Compatible)
+
+
+---
+
+# 📜  LICENSE (MIT)
+
+When GitHub asks for license, choose **MIT**, or use this:
+
+```txt
+MIT License
+
+Copyright (c) 2026 IOPn Pay
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction...
